@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "productName": "Ordenador portátil HP Pavilion 15",
+      "price": 989
+    },
+    {
+      "id": "2",
+      "productName": "Smartphone Xiaomi Redmi Note 11",
+      "price": 229.32
+    },
+    {
+      "id": "3",
+      "productName": "Auriculares inalámbricos Sony WH-CH510",
+      "price": 69.99
+    }
+  ]
+}
