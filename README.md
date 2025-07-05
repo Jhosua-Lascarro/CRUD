@@ -4,7 +4,7 @@ Aplicación web simple para gestionar productos con operaciones CRUD.
 
 ## Instalación
 
-1. Instala las dependencias:
+Instala las dependencias:
 
 ```bash
 npm install
@@ -12,23 +12,15 @@ npm install
 
 ## Uso
 
-### Iniciar la aplicación
-
-1. Inicia el servidor JSON:
+Inicia la aplicación:
 
 ```bash
-npm run api
+npm start
 ```
 
-2. En otra terminal, inicia el servidor de desarrollo:
+Abre tu navegador en `http://localhost:5173`
 
-```bash
-npm run dev
-```
-
-3. Abre tu navegador en `http://localhost:5173`
-
-### Funcionalidades
+## Funcionalidades
 
 - **Agregar producto**: Completa el formulario y haz clic en "Enviar"
 - **Editar producto**: Haz clic en "Editar" para modificar un producto existente
@@ -42,15 +34,6 @@ npm run dev
 - JSON Server
 - Vite
 
-## Estructura
+## Autor
 
-```
-src/
-├── database/
-│   └── data.json
-├── scripts/
-│   ├── api.js
-│   └── main.js
-├── global.css
-└── index.html
-```
+Jhosua Lascarro
